@@ -63,7 +63,7 @@ You can download and explore the Excel dashboard by clicking the link below:
 
 ### Youtube-Spotify EDA
 
-**Code:** [Youtube-Spotify EDA](https://github.com/handerana/portfolio_projects/blob/main/Youtube-Spotify%20EDA.ipynb)
+**Code:** [Youtube-Spotify EDA]()
 
 **Description:** This dataset offers detailed insights into music tracks from Spotify and YouTube, featuring data on track popularity, artist information, and listener engagement, making it ideal for analyzing trends in music consumption.
 
@@ -73,12 +73,11 @@ You can download and explore the Excel dashboard by clicking the link below:
 
 ### Northwind Traders Sales Analysis (Capstone Project)
 
-**Code:** [Youtube-Spotify EDA](https://github.com/handerana/portfolio_projects/blob/main/Northwind%20Traders%20Sales%20Analysis.ipynb)
+**Code:** [Python](https://github.com/handerana/portfolio_projects/blob/main/Northwind%20Traders%20Sales%20Analysis.ipynb)
 
-**Code:** [Youtube-Spotify EDA](https://github.com/handerana/portfolio_projects/blob/main/Northwind%20Traders%20Sales%20Analysis.ipynb)
+**Code:** [SQL](https://github.com/handerana/portfolio_projects/blob/main/Northwind%20Traders%20%20Sales%20Analysis%20SQL.sql)
 
-
-
+**Dashboard:** [Northwind Traders Sales Analysis](https://github.com/handerana/portfolio_projects/edit/main/Northwind%20Traders%20Sales%20Analysis%20Dashboard.pdf)
 
 ### Goal
 
