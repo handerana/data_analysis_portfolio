@@ -29,6 +29,10 @@ You can download and explore the Excel dashboard by clicking the link below:
 
 - [Download Excel Dashboard](https://github.com/yourusername/yourrepository/raw/main/path/to/excel-file.xlsx)
 
+### Brazilian E-Commerce Data Analysis
+
+Code: ![Brazilian E-Commerce Data Analysis] (https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Data%20Analysis.sql)
+Presentation: ![Brazilian E-Commerce Data Analysis] (https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Data%20Analysis.pdf)
 
 ### Goal
 
