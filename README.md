@@ -23,11 +23,11 @@ I have also included my work in programming languages such as Python and SQL. Th
 
 In this project, I created a comprehensive dashboard using Excel to analyze Superstore Sales Data. The dashboard includes various charts, pivot tables, and interactive elements to help visualize and interpret the data.
 
-![Excel Dashboard Screenshot](https://github.com/yourusername/yourrepository/raw/main/images/dashboard.png)
+[Excel Dashboard Screenshot](https://github.com/yourusername/yourrepository/raw/main/images/dashboard.png)
 
 You can download and explore the Excel dashboard by clicking the link below:
 
-- [Download Excel Dashboard](https://github.com/yourusername/yourrepository/raw/main/path/to/excel-file.xlsx)
+[Download Excel Dashboard](https://github.com/yourusername/yourrepository/raw/main/path/to/excel-file.xlsx)
 
 ### Brazilian E-Commerce Data Analysis
 
