@@ -31,9 +31,9 @@ You can download and explore the Excel dashboard by clicking the link below:
 
 ### Brazilian E-Commerce Data Analysis
 
-Code: ![Brazilian E-Commerce Data Analysis](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Data%20Analysis.sql)
+Code: [Brazilian E-Commerce Data Analysis](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Data%20Analysis.sql)
 
-Presentation: ![Brazilian E-Commerce Data Analysis](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Data%20Analysis.pdf)
+Presentation: [Brazilian E-Commerce Data Analysis](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Data%20Analysis.pdf)
 
 ### Goal
 
