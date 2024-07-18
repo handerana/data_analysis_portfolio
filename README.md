@@ -33,9 +33,52 @@ You can download and explore the Excel dashboard by clicking the link below:
 
 **Code:** [Brazilian E-Commerce Sales Analysis](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Data%20Analysis.sql)
 
-**Presentation:** [Brazilian E-Commerce Sales Presenation](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Data%20Analysis.pdf)
+**Presentation:** [Brazilian E-Commerce Sales Analysis Presentation](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Data%20Analysis.pdf)
 
-**Description:** This analysis project explores the temporal distribution of customer orders and vendor performance using the Olist Brazilian e-commerce dataset, uncovering significant trends.
+**Description:** This dataset from Olist provides a comprehensive view of Brazilian e-commerce transactions, encompassing order details, customer reviews, and seller performance metrics, ideal for analyzing market trends and consumer behavior.
+
+**Skills:** joins, CTE's, windows functions, aggregate functions, converting data types
+
+**Technology:** SQL, Powerpoint
+
+### Nobel Prize Analysis
+
+**Code:** [Nobel Prize Analysis](https://github.com/handerana/portfolio_projects/blob/main/Nobel%20Prizes%20Analysis.ipynb)
+
+**Description:** This dataset compiles the prestigious Nobel Prize awards, spanning categories such as Physics, Chemistry, and Peace, offering insights into historical achievements and global impact across different disciplines.
+
+**Skills:** data cleaning, data analysis, visualizing results, drawing conclusions
+
+**Technology:** Python, Pandas, Matplotlib
+
+### Hotel Booking Analysis
+
+**Dashboard:** [Hotel Boooking Analysis](https://github.com/handerana/portfolio_projects/blob/main/Hotel%20Reservation%20Dashboard.pdf)
+
+**Description:** This dataset offers insights into hotel bookings, encompassing various aspects such as booking patterns, customer demographics, and hotel performance metrics, ideal for exploring trends in the hospitality industry.
+
+**Skills:** data cleaning, data formatting, DAX formulas, data visualization and presentation
+
+**Technology:** PowerBI
+
+### Youtube-Spotify EDA
+
+**Code:** [Youtube-Spotify EDA](https://github.com/handerana/portfolio_projects/blob/main/Youtube-Spotify%20EDA.ipynb)
+
+**Description:** This dataset offers detailed insights into music tracks from Spotify and YouTube, featuring data on track popularity, artist information, and listener engagement, making it ideal for analyzing trends in music consumption.
+
+**Skills:** data cleaning, trend analysis, , feature extraction
+
+**Technology:** Python, Pandas, Matplotlib
+
+### Northwind Traders Sales Analysis (Capstone Project)
+
+**Code:** [Youtube-Spotify EDA](https://github.com/handerana/portfolio_projects/blob/main/Northwind%20Traders%20Sales%20Analysis.ipynb)
+
+**Code:** [Youtube-Spotify EDA](https://github.com/handerana/portfolio_projects/blob/main/Northwind%20Traders%20Sales%20Analysis.ipynb)
+
+
+
 
 ### Goal
 
