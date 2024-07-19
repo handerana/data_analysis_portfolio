@@ -27,6 +27,8 @@ I have also included my work in programming languages such as Python and SQL. Th
 
 **Skills:** data manipulation, vlookup, pivot tables, data visualization, reporting
 
+**Technology:** Excel
+
 ### Brazilian E-Commerce Sales Analysis
 
 **Code:** [Brazilian E-Commerce Sales Analysis](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Sales%20Analysis.sql)
@@ -65,7 +67,7 @@ I have also included my work in programming languages such as Python and SQL. Th
 
 **Description:** This dataset offers detailed insights into music tracks from Spotify and YouTube, featuring data on track popularity, artist information, and listener engagement, making it ideal for analyzing trends in music consumption.
 
-**Skills:** data cleaning, trend analysis, , feature extraction
+**Skills:** data cleaning, trend analysis, , feature extraction, python libraries
 
 **Technology:** Python, Pandas, Matplotlib
 
@@ -76,6 +78,14 @@ I have also included my work in programming languages such as Python and SQL. Th
 **Code:** [SQL](https://github.com/handerana/portfolio_projects/blob/main/Northwind%20Traders%20%20Sales%20Analysis%20SQL.sql)
 
 **Dashboard:** [Northwind Traders Sales Analysis](https://github.com/handerana/portfolio_projects/edit/main/Northwind%20Traders%20Sales%20Analysis%20Dashboard.pdf)
+
+**Description:** The Northwind Traders dataset contains comprehensive information about a fictional company's sales, including orders, products, customers, and suppliers. It is used to analyze business operations and generate insights into sales trends and customer interactions.
+
+**Skills:** data cleaning, data manipulation,  DAX formulas, data visualization and presentation
+
+
+**Technology:** Python, Pandas, Matplotlib,Plotly express, SQL, PowerBI
+
 
 ### Goal
 
