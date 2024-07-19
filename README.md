@@ -29,9 +29,9 @@ I have also included my work in programming languages such as Python and SQL. Th
 
 ### Brazilian E-Commerce Sales Analysis
 
-**Code:** [Brazilian E-Commerce Sales Analysis](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Data%20Analysis.sql)
+**Code:** [Brazilian E-Commerce Sales Analysis](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Sales%20Analysis.sql)
 
-**Presentation:** [Brazilian E-Commerce Sales Analysis Presentation](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Data%20Analysis.pdf)
+**Presentation:** [Brazilian E-Commerce Sales Analysis Presentation](https://github.com/handerana/portfolio_projects/blob/main/Brazilian%20E-Commerce%20Sales%20Analysis%20Presentation.pdf)
 
 **Description:** This dataset from Olist provides a comprehensive view of Brazilian e-commerce transactions, encompassing order details, customer reviews, and seller performance metrics, ideal for analyzing market trends and consumer behavior.
 
@@ -51,7 +51,7 @@ I have also included my work in programming languages such as Python and SQL. Th
 
 ### Hotel Booking Analysis
 
-**Dashboard:** [Hotel Boooking Analysis](https://github.com/handerana/portfolio_projects/blob/main/Hotel%20Reservation%20Dashboard.pdf)
+**Dashboard:** [Hotel Boooking Analysis](https://github.com/handerana/portfolio_projects/blob/main/Hotel%20Booking%20Dashboard.pdf)
 
 **Description:** This dataset offers insights into hotel bookings, encompassing various aspects such as booking patterns, customer demographics, and hotel performance metrics, ideal for exploring trends in the hospitality industry.
 
@@ -61,7 +61,7 @@ I have also included my work in programming languages such as Python and SQL. Th
 
 ### Youtube-Spotify EDA
 
-**Code:** [Youtube-Spotify EDA]()
+**Code:** [Youtube-Spotify EDA](https://github.com/handerana/portfolio_projects/blob/main/Youtube-Spotify%20EDA.ipynb)
 
 **Description:** This dataset offers detailed insights into music tracks from Spotify and YouTube, featuring data on track popularity, artist information, and listener engagement, making it ideal for analyzing trends in music consumption.
 
