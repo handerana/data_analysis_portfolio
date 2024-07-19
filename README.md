@@ -21,13 +21,11 @@ I have also included my work in programming languages such as Python and SQL. Th
 
 ### Superstore Sales Analysis
 
-In this project, I created a comprehensive dashboard using Excel to analyze Superstore Sales Data. The dashboard includes various charts, pivot tables, and interactive elements to help visualize and interpret the data.
+**Dashboard:** [Superstore Sales Analysis](https://github.com/handerana/portfolio_projects/blob/main/Hotel%20Reservation%20Dashboard.pdf)
 
-[Excel Dashboard Screenshot](https://github.com/yourusername/yourrepository/raw/main/images/dashboard.png)
+**Description:** The Superstore dataset includes detailed records of retail transactions across various categories. It provides insights into sales performance, customer behavior, and regional trends.
 
-You can download and explore the Excel dashboard by clicking the link below:
-
-[Download Excel Dashboard](https://github.com/yourusername/yourrepository/raw/main/path/to/excel-file.xlsx)
+**Skills:** data manipulation, vlookup, pivot tables, data visualization, reporting
 
 ### Brazilian E-Commerce Sales Analysis
 
