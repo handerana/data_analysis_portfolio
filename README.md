@@ -21,7 +21,7 @@ I have also included my work in programming languages such as Python and SQL. Th
 
 ### Superstore Sales Analysis
 
-**Dashboard:** [Superstore Sales Analysis](https://github.com/handerana/portfolio_projects/blob/main/Hotel%20Reservation%20Dashboard.pdf)
+**Dashboard:** [Superstore Sales Analysis](https://github.com/handerana/portfolio_projects/blob/main/Hotel%20Reservation%20Dashboard.pdf](https://github.com/handerana/portfolio_projects/blob/main/Superstore%20Sales%20Dashboard.pdf))
 
 **Description:** The Superstore dataset includes detailed records of retail transactions across various categories. It provides insights into sales performance, customer behavior, and regional trends.
 
